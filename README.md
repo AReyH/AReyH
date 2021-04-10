@@ -5,6 +5,8 @@
 - Currently working on implementing machine learning for predictive maintenance! 🏭
 - I enjoy writing articles on Medium, mostly about small projects.
 - I also enjoy playing guitar and drums. 🎵
+- Currently learning Julia.👀
+- I'm part of Colombia's Mision TIC 2022 program!
 
 
 <br />
