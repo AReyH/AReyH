@@ -1,12 +1,11 @@
 ### Hello, there. My name is Arturo!
 
-## I'm a Data Scientist/Mechanical Engineer.
+## I'm a Data Scientist
 
-- Currently working on implementing machine learning for predictive maintenance! 🏭
+- Currently finishing my Master of Data Science in The University of British Columbia
+- I have worked as a Data Scientist for 2+ years
 - I enjoy writing articles on Medium, mostly about small projects.
 - I also enjoy playing guitar and drums. 🎵
-- Currently learning Julia.👀
-- I'm part of Colombia's Mision TIC 2022 program!
 
 
 <br />
