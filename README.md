@@ -3,7 +3,7 @@
 ## I'm a Data Scientist
 
 - Currently finishing my Master of Data Science in The University of British Columbia
-- I have worked as a Data Scientist for 2+ years
+- I have worked as a Data Scientist for 3+ years
 - Co-author of the `autopredictor` Python package
 - I enjoy writing articles on Medium, mostly about small projects.
 - I also enjoy playing guitar and drums. 🎵
