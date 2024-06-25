@@ -40,6 +40,6 @@ Libraries/Frameworks:
 
 <br />
 
-[website]: https://arturorey.medium.com/
+[website]: https://areyh.github.io/portfolio/
 [linkedin]: www.linkedin.com/in/arturoreyh
 
