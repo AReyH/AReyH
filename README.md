@@ -41,4 +41,5 @@ Libraries/Frameworks:
 <br />
 
 [website]: https://arturorey.medium.com/
-[linkedin]: https://www.linkedin.com/in/ingarturorey/
+[linkedin]: www.linkedin.com/in/arturoreyh
+
