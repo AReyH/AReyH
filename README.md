@@ -1,6 +1,6 @@
 ### Hello, there. My name is Arturo!
 
-## 💫 I'm a Data Scientist
+## 💫 About Me
 
 - Currently finishing my Master of Data Science in The University of British Columbia
 - I have worked as a Data Scientist for 3+ years
